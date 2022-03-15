@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723405879529",
+    "project_id": "lhad-albiet",
+    "storage_bucket": "lhad-albiet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723405879529:android:d1901a7515194cef75d878",
+        "android_client_info": {
+          "package_name": "amal.example.lhad_elbeit_selleres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723405879529-v50o95v45f0333j7lifscb5t370kavm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlkNLvQTGsfYkIpithTtLDM52GKmc619Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723405879529-v50o95v45f0333j7lifscb5t370kavm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
